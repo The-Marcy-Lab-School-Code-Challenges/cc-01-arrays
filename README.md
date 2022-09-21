@@ -1,4 +1,4 @@
-# Code Challenge: Control Flow
+# Code Challenge: Arrays
 
 ## Instructions
 
